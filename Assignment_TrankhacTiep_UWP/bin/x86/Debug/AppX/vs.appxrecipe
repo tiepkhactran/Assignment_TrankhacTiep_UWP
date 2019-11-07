@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TIEP-PC</Machine>
+    <WindowsUser>tiepb</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>1d9f527c-bd4a-4041-aa3a-635ba71bf5f0</PackageIdentityName>
+    <PackageIdentityPublisher>CN=tiepb</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>918C88F3C4F63CB7ED8C3607C3B4CE5777616AB2B7161ECAA1F082CFE0090895</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1d9f527c-bd4a-4041-aa3a-635ba71bf5f0_1.0.0.0_x86__8bgh04x7ef6r4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1d9f527c-bd4a-4041-aa3a-635ba71bf5f0_8bgh04x7ef6r4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1d9f527c-bd4a-4041-aa3a-635ba71bf5f0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=tiepb</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-07T20:33:00.652</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Assignment_TrankhacTiep_UWP.exe">
+      <PackagePath>entrypoint\Assignment_TrankhacTiep_UWP.exe</PackagePath>
+      <Modified>2019-11-07T20:32:58.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\.nuget\packages\newtonsoft.json\12.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2019-04-21T18:06:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2019-07-22T07:01:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T11:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2019-11-07T18:41:53.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-10-10T08:04:57.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-10T08:04:57.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-10T08:04:57.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-10T08:04:57.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-10T08:04:57.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-10T08:04:57.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-10T08:04:57.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Assignment_TrankhacTiep_UWP.xr.xml">
+      <PackagePath>Assignment_TrankhacTiep_UWP.xr.xml</PackagePath>
+      <Modified>2019-11-07T20:32:58.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Demo\NavigationViewDemo.xbf">
+      <PackagePath>Demo\NavigationViewDemo.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Demo\SettingPage.xbf">
+      <PackagePath>Demo\SettingPage.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Music\AllMusicPage.xbf">
+      <PackagePath>Music\AllMusicPage.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Music\MyMusicPage.xbf">
+      <PackagePath>Music\MyMusicPage.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Registers\AccountInfoPage.xbf">
+      <PackagePath>Registers\AccountInfoPage.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Music\CreateMusicPage.xbf">
+      <PackagePath>Music\CreateMusicPage.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Registers\LoginPage.xbf">
+      <PackagePath>Registers\LoginPage.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Registers\RegisterPage.xbf">
+      <PackagePath>Registers\RegisterPage.xbf</PackagePath>
+      <Modified>2019-11-07T20:32:58.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T10:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-11-07T20:32:59.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tiepb\source\repos\Assignment_TrankhacTiep_UWP\Assignment_TrankhacTiep_UWP\bin\x86\Debug\Core\Assignment_TrankhacTiep_UWP.exe">
+      <PackagePath>Assignment_TrankhacTiep_UWP.exe</PackagePath>
+      <Modified>2019-11-07T20:33:00.631</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
